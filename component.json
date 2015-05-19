@@ -1,0 +1,11 @@
+{
+  "name": "Sniffer",
+  "version": "2.3.0",
+  "description": "Browser/engine/os/device detection tool",
+  "main": "./dist/sniffer.js",
+  "scripts": [
+    "./dist/sniffer.js"
+  ],
+  "license": "MIT",
+  "repository": "wilddeer/Sniffer"
+}
